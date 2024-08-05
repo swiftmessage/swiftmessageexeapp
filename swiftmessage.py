@@ -1,3 +1,4 @@
+#pip install pywebview
 import webview
 
 # URL
